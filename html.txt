@@ -83,7 +83,7 @@ $('.member-p').on('click', function() {
             <img src="pic1.jpeg" class="m-phot">
             <div class="ad">Laman Jafarli</div>
             <div class="pos">Team Member</div>
-            <a href="https://twitter.com/suleymammadov" class="s-link" target="_blank">Codecademy</a>
+            <a href="https://www.codecademy.com/profiles/array9934362342" class="s-link" target="_blank">Codecademy</a>
             <a href="https://www.instagram.com/itsleman_jly/?next=%2F" class="s-link" target="_blank">Instagram</a>
             <a href="https://github.com/ljafarli" class="s-link" target="_blank">Github</a>
           </div>
@@ -116,7 +116,7 @@ $('.member-p').on('click', function() {
         <h2 class="a1-text">Preparation to Hour of Code Week</h2>
         <p class="para h-o-c-p">We made advance plans to ensure that our students have a successful day: 1. Go through the Hour of Code educator's manual. 2. Registering our event through Hour of Code. Every school that registers gets acknowledged, and doing so enables Code.org to monitor the results. 3. Choosing a few lessons or exercises and testing them out throughout the course of the entire week. This stage, in our perspective, enabled us to help students make connections to prior classes, comprehend how to promote learning, and foresee where some of them could get stuck. 4. Modified any of Code.org's courses or exercises to meet the demands of our class.We're trying to persuade youngsters that the Hour of Code may be the start of their coding and programming journey and that they should focus on some of the fundamental concepts that are crucial to programming in any programming language. Students will learn the basics of input, output, loops, and functions.</p>
         
-        <a href="https://www.youtube.com/watch?v=KXw8CRapg7k" class="h-o-c-link" target="_blank">Our Video</a>
+        <a href="https://m.facebook.com/story.php?story_fbid=671322537922304&id=100051336903434&mibextid=qC1gEa" class="h-o-c-link" target="_blank">Our Post</a>
         </div>
 
       <a href="https://www.youtube.com/watch?v=KXw8CRapg7k" target="_blank" class="e-egg">Homework 4</a>
